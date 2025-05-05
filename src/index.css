@@ -1,0 +1,11 @@
+body {  
+    background-color: #f6fcff;
+    padding: 0;
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+}
+
+input::placeholder,
+textarea::placeholder { 
+    font-family: "Montserrat", sans-serif;
+}
